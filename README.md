@@ -11,7 +11,7 @@ The primary objective of these activities is the application of computational an
 The repository is organized in a modular structure. Each laboratory session has its own dedicated directory, designed to keep the source code separate from the analysis:
 
 * **`Esercitazione_XX/`**: Main directory for a specific session (e.g., `Esercitazione_01`, `Esercitazione_02`, etc.).
-    * 📄 **`Esercitazione_XX.ipynb`**: The main Jupyter Notebook. It contains the physics discussion of the problem, data visualization, and statistical analysis.
+    * 📄 **`Notebook_Ex_XX.ipynb`**: The main Jupyter Notebook. It contains the physics discussion of the problem, data visualization, and statistical analysis.
     * 📁 **`src/`**: Subfolder containing:
         * C++ source files (`.cpp`, `.h`) used to run the simulations.
         * Configuration files (`input.dat`, etc.).
