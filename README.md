@@ -2,7 +2,7 @@
 
 Welcome to the repository for the **Numerical Simulation Laboratory** course. This space contains all the source code, data analysis, and numerical results developed during the practical laboratory sessions.
 
-The primary objective of these activities is the application of computational and stochastic methods to solve complex physical problems, ranging from statistical mechanics to combinatorial optimization and machine learning.
+The primary objective of these activities is the application of computational and stochastic methods to solve complex physical problems, ranging from statistical mechanics to machine learning.
 
 ---
 
